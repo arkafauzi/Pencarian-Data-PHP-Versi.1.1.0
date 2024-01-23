@@ -1,6 +1,5 @@
 <?php
 
-use function Laravel\Prompts\select;
 
 include 'koneksi.php';
 ?>
